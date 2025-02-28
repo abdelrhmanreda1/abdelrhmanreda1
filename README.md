@@ -137,12 +137,12 @@
 ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)
 
 ## 🏆 GitHub Trophies
-![mahmoud abuyoussef's Trophies](https://github-trophies.vercel.app/?username=abdelrhmanreda1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![abdelrhman reda's Trophies](https://github-trophies.vercel.app/?username=abdelrhmanreda1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats
-![abdelrhmanreda1's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelrhmanreda1&theme=dark)
-![abdelrhmanreda1's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelrhmanreda1&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![abdelrhmanreda1's Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdelrhmanreda1&theme=dark&utcOffset=8)
-![abdelrhmanreda1's Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelrhmanreda1&theme=dark)
-![abdelrhmanreda1's Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelrhmanreda1&theme=dark) <br>
-![abdelrhmanreda1's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanreda1&theme=dark&show_icons=true&hide_border=true)
+![abdelrhman reda's Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelrhmanreda1&theme=dark)
+![abdelrhman reda's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelrhmanreda1&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![abdelrhman reda's Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdelrhmanreda1&theme=dark&utcOffset=8)
+![abdelrhman reda's Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelrhmanreda1&theme=dark)
+![abdelrhman reda's Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelrhmanreda1&theme=dark) <br>
+![abdelrhman reda's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanreda1&theme=dark&show_icons=true&hide_border=true)
