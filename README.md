@@ -20,22 +20,23 @@
 
 ## 💪 Experience
 
-- My experience includes working on creating Websites using React.js and Vue.js.
-  with delivering high-performance and accessible websites.
+Frontend Developer | Educational Platforms, Legal Websites, Recruitment & Food Ordering Systems
+Educational Platforms Development:
+Worked on developing and enhancing e-learning platforms, focusing on creating interactive user interfaces and improving the learning experience. Integrated payment gateways like Fawry and Visa, ensuring seamless course enrollment and transactions.
 
-- My expertise also extends to creating news websites using WordPress CMS,
-  I made it seamless for publishers to interact with the site.
-  By assigning permissions to each user on the site and enhancing its visibility on search engines,
-  I successfully drove a significant increase in the number of site users. Adding features such as continuous notifications for users upon news publication and implementing live broadcast functionality further contributed to the site's success,
-  all while enhancing its loading speed.
+Legal Websites & Case Management Systems:
+Developed and contributed to law firm platforms, implementing features such as contract management, financial reports, user role permissions, real-time notifications, and legal advertisements, optimizing workflow and efficiency for legal professionals.
 
-- My expertise also extends to creating educational websites using the Moodle learning management system.
-  Focusing on improving the user interface,
-  I successfully increased student engagement and eliminated previous loading speed issues,
-  further enhancing the site for learning purposes.
+Recruitment Platforms & Job Portals:
+Built and optimized job portals, enabling companies to post job listings, filter resumes, and send automated notifications to candidates, streamlining the hiring process and improving user experience.
 
-- Additionally, my journey includes serving as a instructor
-  front-end user interface and uplifting the learning experience.
+Food Ordering & Business Websites:
+Worked on food ordering platforms, focusing on responsive UI design, optimized performance, and enhanced user experience, ensuring smooth navigation and fast order processing.
+
+Performance Optimization & SEO Enhancement:
+Skilled in website speed optimization, SEO best practices, and ensuring a seamless experience across all devices and browsers.
+
+With a strong passion for web development, I continuously adopt the latest technologies and apply best industry practices to create high-performance and user-friendly websites.
 
 
 
